@@ -1,2 +1,2 @@
 # Note-Taker
-A note taking app using ORM(Hibernate), servlet and JSP.
+a user-friendly NoteTaker application using Hibernate, Servlet, and JSP technologies. Implemented robust data storage with Hibernate, allowing users to create, edit, and organize their notes efficiently.
